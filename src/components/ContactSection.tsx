@@ -79,7 +79,7 @@ const ContactSection = () => {
             transition={{ duration: 0.6, delay: 0.2 }
           <div className="flex justify-center mt-8">
             <a 
-              href="https://wa.me/5511999999999?text=Olá! Gostaria de saber mais sobre os serviços da Cubic Consultoria." 
+              href="https://wa.me/5531986660134?text=Olá! Gostaria de saber mais sobre os serviços da Cubic Consultoria." 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white font-bold py-4 px-8 rounded-lg shadow-lg transition-all flex items-center gap-2"
