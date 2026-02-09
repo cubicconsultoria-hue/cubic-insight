@@ -48,9 +48,9 @@ const ContactSection = () => {
 
             <div className="space-y-6">
               {[
-                { icon: Mail, label: "contato@cubicconsultoria.com.br" },
-                { icon: Phone, label: "(11) 99999-9999" },
-                { icon: MapPin, label: "São Paulo, SP — Brasil" },
+                { icon: Mail, label: "cubicconsultoria@gmail.com" },
+                { icon: Phone, label: "(31) 98666-0134" },
+                { icon: MapPin, label: "Viçosa, MG — Brasil" },
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center">
